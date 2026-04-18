@@ -1,5 +1,5 @@
 # Experiment-05
-# Aim 
+# AIM
 Design and analyze a non-inverting amplifier using an operational amplifier and study its frequency response.
 # Parameter Table – Non-Inverting Amplifier
 
@@ -13,3 +13,4 @@ Design and analyze a non-inverting amplifier using an operational amplifier and 
 | Closed-Loop Gain (Av) | 1 + (R1/R2) = 1.25 |
 | Output Voltage (Vout P-P) | ≈ 15 V |
 | Op-Amp Model | LM741 |
+# Circuit diogram
