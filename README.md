@@ -21,3 +21,4 @@ It provides high input impedance and low output impedance.
 It is widely used for signal amplification and conditioning.
 
 # Circuit diogram
+simulation CKT 01.PNG
