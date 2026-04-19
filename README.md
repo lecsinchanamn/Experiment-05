@@ -73,3 +73,15 @@ It provides very high input impedance and low output impedance, making it useful
 
 https://github.com/lecsinchanamn/Experiment-05/blob/e9643c7490e743511ff4c07697cdaaaf94986c22/ckt2.%2001.PNG
 
+# Parameter Table – Voltage Follower (Buffer)
+
+| Parameter | Value |
+|----------|------|
+| Supply Voltage (Vcc / Vee) | ±15 V |
+| Input Voltage (Vin peak-to-peak) | 12 V (P-P) |
+| Input Frequency (f) | 2 kHz |
+| Load Resistor (R1) | 2.2 kΩ |
+| Closed-Loop Gain (Av) | Av = Vout / Vin = 1 |
+| Output Voltage (Vout P-P) | ≈ 12 V (P-P) |
+| Op-Amp Model | LM741 |
+
