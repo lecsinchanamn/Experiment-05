@@ -96,3 +96,7 @@ It provides very high input impedance and low output impedance, making it useful
 https://github.com/lecsinchanamn/Experiment-05/blob/233dbdf434ea958efa37b7673495ecb821635e79/Ckt02.%20DC%20Analysis.PNG
 
 # Transint Analysis
+.  Input waveform (Vin) is a sinusoidal signal at 2 kHz.  
+.  Output waveform (Vout) closely follows the input (unity gain, no phase shift).  
+.  No amplification occurs; output amplitude ≈ input amplitude (12 V P-P).  
+.  Minor distortion may appear at peaks due to LM741 slew rate limitations.
