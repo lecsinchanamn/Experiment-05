@@ -119,4 +119,8 @@ https://github.com/lecsinchanamn/Experiment-05/blob/5d0a24135a6dd8e037f793fcdd82
   
 https://github.com/lecsinchanamn/Experiment-05/blob/a5592d4bc472037a82164502405b051cc097c949/CKT02.%20AC%20and%20FR%20analysis.PNG
 
-# 
+# Conclusion & Interpretation
+- The circuit works as a voltage follower (buffer) with unity gain (Av = 1).  
+- The output signal follows the input signal without any phase shift or amplification.  
+- It provides high input impedance and low output impedance, making it useful for impedance matching.  
+- The performance is stable at low frequencies, while at higher frequencies gain reduction occurs due to LM741 limitations.
