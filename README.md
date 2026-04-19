@@ -105,3 +105,4 @@ https://github.com/lecsinchanamn/Experiment-05/blob/8b48661ad020aca78b717e497fb4
 
 # AC Analysis
 https://github.com/lecsinchanamn/Experiment-05/blob/5d0a24135a6dd8e037f793fcdd821a213b6d4713/CKT02.AC%20analysis.PNG
+https://github.com/lecsinchanamn/Experiment-05/blob/993bf4ecf28efae5ffc67b7eb98b884f0978d22f/CKT02.%20AC%20and%20FR%20analysis.PNG
