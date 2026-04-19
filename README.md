@@ -38,4 +38,5 @@ https://github.com/lecsinchanamn/Experiment-05/blob/80df08e30998bb19e336ba3f1b2a
  https://github.com/lecsinchanamn/Experiment-05/blob/4a8075e8af8dac0a14563b9d59831e91f25cf823/Ckt%2003%20TA.PNG
 
 #  AC Analysis or Frequeny response
+https://github.com/lecsinchanamn/Experiment-05/blob/cdc6a93a5e3041f17ae6b71275fb85b0ee5b7a46/Ckt%2004%20AC%20analysis.PNG
 https://github.com/lecsinchanamn/Experiment-05/blob/d5233cd011fd7c9b4e20e293c630d13d13b5b86e/Ckt%2004%20AC%20analysis.PNG
