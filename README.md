@@ -53,4 +53,9 @@ https://github.com/lecsinchanamn/Experiment-05/blob/cdc6a93a5e3041f17ae6b71275fb
 
 https://github.com/lecsinchanamn/Experiment-05/blob/24731fe652af8c77875471b3681acc6cf2af4ad1/Ckt%2005%20AC%20analysis.PNG
 
+# Conclusion & Interpretation
+.  The circuit works as a non-inverting amplifier with a gain of about 1.25, amplifying the input without changing its phase.  
+.  The output follows the input signal shape and stays stable within the supply limits.  
+.  At higher frequencies, the gain reduces due to op-amp limitations.  
+.  Overall, the circuit performs as expected for basic signal amplification.
 
