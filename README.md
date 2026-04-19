@@ -31,4 +31,7 @@ It is widely used for signal amplification and conditioning.
 https://github.com/lecsinchanamn/Experiment-05/blob/80df08e30998bb19e336ba3f1b2abd55f76be81d/Ckt%2002%20DC%20analysis.PNG
 
 # Tranisnt Analysis
-https://github.com/lecsinchanamn/Experiment-05/blob/4a8075e8af8dac0a14563b9d59831e91f25cf823/Ckt%2003%20TA.PNG
+.  Input waveform (Vin) is a sinusoidal signal at 2 kHz.  
+.  Output waveform (Vout) is amplified by a gain of 1.25 and remains in phase with the input.  
+.  Output may show slight clipping near ±15 V due to LM741 practical limitations.
+.  https://github.com/lecsinchanamn/Experiment-05/blob/4a8075e8af8dac0a14563b9d59831e91f25cf823/Ckt%2003%20TA.PNG
