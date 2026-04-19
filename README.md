@@ -44,5 +44,13 @@ https://github.com/lecsinchanamn/Experiment-05/blob/80df08e30998bb19e336ba3f1b2a
 # Reason: Due to internal capacitances and finite gain-bandwidth product of the LM741 op-amp.
 
 https://github.com/lecsinchanamn/Experiment-05/blob/cdc6a93a5e3041f17ae6b71275fb85b0ee5b7a46/Ckt%2004%20AC%20analysis.PNG
-# Frequency response and bindwidth
+
+# Frequency response and bindwidth 
+. Observation: Gain ≈ 1.94 dB (Av = 1.25).  
+. Gain is almost constant at low frequencies.  
+. At high frequencies, the gain starts decreasing.
+. Reason: This happens due to internal capacitances and limited bandwidth of the op-amp.
+
 https://github.com/lecsinchanamn/Experiment-05/blob/24731fe652af8c77875471b3681acc6cf2af4ad1/Ckt%2005%20AC%20analysis.PNG
+
+
