@@ -65,6 +65,8 @@ https://github.com/lecsinchanamn/Experiment-05/blob/24731fe652af8c77875471b3681a
 # AIM
 Design and analyze a voltage follower (unity gain buffer) and study the frequency response.
 # Circuit diogram
+https://github.com/lecsinchanamn/Experiment-05/blob/e9643c7490e743511ff4c07697cdaaaf94986c22/ckt2.%2001.PNG
+# Theory of voltage follower circuit
 . This circuit is a Voltage Follower using an LM741 op-amp, where the output is directly fed back to the inverting (−) terminal.  
 . The input signal is applied to the non-inverting (+) terminal, so the output follows the input.  
 . The voltage gain of this circuit is unity.
@@ -72,7 +74,6 @@ Design and analyze a voltage follower (unity gain buffer) and study the frequenc
 . This means the output voltage is equal to the input voltage (Vout = Vin), with no phase change.  
 It provides very high input impedance and low output impedance, making it useful as a buffer.
 
-https://github.com/lecsinchanamn/Experiment-05/blob/e9643c7490e743511ff4c07697cdaaaf94986c22/ckt2.%2001.PNG
 
 # Parameter Table – Voltage Follower (Buffer)
 
