@@ -1,4 +1,5 @@
 # Experiment-05
+# CIRCUIT 01
 # AIM
 Design and analyze a non-inverting amplifier using an operational amplifier and study its frequency response.
 # Parameter Table – Non-Inverting Amplifier
@@ -58,4 +59,8 @@ https://github.com/lecsinchanamn/Experiment-05/blob/24731fe652af8c77875471b3681a
 .  The output follows the input signal shape and stays stable within the supply limits.  
 .  At higher frequencies, the gain reduces due to op-amp limitations.  
 .  Overall, the circuit performs as expected for basic signal amplification.
+
+# CIRCUIT 02
+# AIM
+Design and analyze a voltage follower (unity gain buffer) and study the frequency response.
 
