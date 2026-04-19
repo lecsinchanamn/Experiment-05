@@ -88,3 +88,7 @@ It provides very high input impedance and low output impedance, making it useful
 | Op-Amp Model | LM741 |
 
 # DC Analysis 
+.  When Vin = 0 V: Vout ≈ 0 V  
+.  The output follows the input due to unity feedback (voltage follower action).  
+.  The op-amp is properly biased with ±15 V supply.  
+.  A small offset voltage may appear due to practical limitations of the LM741.
