@@ -100,3 +100,5 @@ https://github.com/lecsinchanamn/Experiment-05/blob/233dbdf434ea958efa37b7673495
 .  Output waveform (Vout) closely follows the input (unity gain, no phase shift).  
 .  No amplification occurs; output amplitude ≈ input amplitude (12 V P-P).  
 .  Minor distortion may appear at peaks due to LM741 slew rate limitations.
+
+https://github.com/lecsinchanamn/Experiment-05/blob/8b48661ad020aca78b717e497fb4058ca666e5a7/CKT02.%20TA%20analysis.PNG
