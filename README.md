@@ -42,6 +42,7 @@ https://github.com/lecsinchanamn/Experiment-05/blob/80df08e30998bb19e336ba3f1b2a
 #  AC Analysis or Frequency response. 
 .  Observation: Gain ≈ 1.94 dB (for Av = 1.25)  
 .  Gain remains constant at low and mid frequencies.  
+- Gain (dB): 1.94 dB non inverting/ ≈ 13.98 dB (Amplifier)   
 .  Gain decreases at higher frequencies.
 .  Reason: Due to internal capacitances and finite gain-bandwidth product of the LM741 op-amp.
 
