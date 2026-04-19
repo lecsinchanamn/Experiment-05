@@ -87,3 +87,4 @@ It provides very high input impedance and low output impedance, making it useful
 | Output Voltage (Vout P-P) | ≈ 12 V (P-P) |
 | Op-Amp Model | LM741 |
 
+# DC Analysis 
