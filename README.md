@@ -118,4 +118,6 @@ https://github.com/lecsinchanamn/Experiment-05/blob/5d0a24135a6dd8e037f793fcdd82
 - Phase Shift: 0° for both circuits  
 - Bandwidth: Limited by LM741 gain-bandwidth product  
 
+https://github.com/lecsinchanamn/Experiment-05/blob/a5592d4bc472037a82164502405b051cc097c949/CKT02.%20AC%20and%20FR%20analysis.PNG
 
+# 
