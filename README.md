@@ -92,3 +92,7 @@ It provides very high input impedance and low output impedance, making it useful
 .  The output follows the input due to unity feedback (voltage follower action).  
 .  The op-amp is properly biased with ±15 V supply.  
 .  A small offset voltage may appear due to practical limitations of the LM741.
+
+https://github.com/lecsinchanamn/Experiment-05/blob/233dbdf434ea958efa37b7673495ecb821635e79/Ckt02.%20DC%20Analysis.PNG
+
+# Transint Analysis
