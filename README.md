@@ -23,9 +23,12 @@ The voltage gain is \( A_v = 1 + \frac{R1}{R2} = 1.25 \), so the output is ampli
 It provides high input impedance and low output impedance.  
 It is widely used for signal amplification and conditioning.
 # DC Analysis
-.  When Vin = 0 V: Vout ≈ 0 V  
-.  This indicates the op-amp is properly biased in the non-inverting configuration.  
-.  small offset voltage may appear due to practical limitations of the LM741.  
-.  The output remains stable within the ±15 V supply range under DC conditions.
+.   When Vin = 0 V: Vout ≈ 0 V  
+.   This indicates the op-amp is properly biased in the non-inverting configuration.  
+.   small offset voltage may appear due to practical limitations of the LM741.  
+.   The output remains stable within the ±15 V supply range under DC conditions.
 
 https://github.com/lecsinchanamn/Experiment-05/blob/80df08e30998bb19e336ba3f1b2abd55f76be81d/Ckt%2002%20DC%20analysis.PNG
+
+# Tranisnt Analysis
+https://github.com/lecsinchanamn/Experiment-05/blob/4a8075e8af8dac0a14563b9d59831e91f25cf823/Ckt%2003%20TA.PNG
