@@ -40,19 +40,19 @@ https://github.com/lecsinchanamn/Experiment-05/blob/80df08e30998bb19e336ba3f1b2a
  https://github.com/lecsinchanamn/Experiment-05/blob/4a8075e8af8dac0a14563b9d59831e91f25cf823/Ckt%2003%20TA.PNG
 
 #  AC Analysis or Frequency response. 
-.  Observation: Gain ≈ 1.94 dB (for Av = 1.25)  
-.  Gain remains constant at low and mid frequencies.  
+- Observation: Gain ≈ 1.94 dB (for Av = 1.25)  
+- Gain remains constant at low and mid frequencies.  
 - Gain (dB): 1.94 dB non inverting/ ≈ 13.98 dB (Amplifier)   
-.  Gain decreases at higher frequencies.
-.  Reason: Due to internal capacitances and finite gain-bandwidth product of the LM741 op-amp.
+-  Gain decreases at higher frequencies.
+-  Reason: Due to internal capacitances and finite gain-bandwidth product of the LM741 op-amp.
 
 https://github.com/lecsinchanamn/Experiment-05/blob/cdc6a93a5e3041f17ae6b71275fb85b0ee5b7a46/Ckt%2004%20AC%20analysis.PNG
 
 # Frequency response and bandwidth characteristics.
-. Observation: Gain ≈ 1.94 dB (Av = 1.25).  
-. Gain is almost constant at low frequencies.  
-. At high frequencies, the gain starts decreasing.
-. Reason: This happens due to internal capacitances and limited bandwidth of the op-amp.
+- Observation: Gain ≈ 1.94 dB (Av = 1.25).  
+- Gain is almost constant at low frequencies.  
+- At high frequencies, the gain starts decreasing.
+- Reason: This happens due to internal capacitances and limited bandwidth of the op-amp.
 
 https://github.com/lecsinchanamn/Experiment-05/blob/24731fe652af8c77875471b3681acc6cf2af4ad1/Ckt%2005%20AC%20analysis.PNG
 
