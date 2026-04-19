@@ -22,4 +22,5 @@ A Non-Inverting Amplifier uses an op-amp (LM741) where the input is applied to t
 The voltage gain is \( A_v = 1 + \frac{R1}{R2} = 1.25 \), so the output is amplified without phase reversal.  
 It provides high input impedance and low output impedance.  
 It is widely used for signal amplification and conditioning.
+# DC Analysis
 
